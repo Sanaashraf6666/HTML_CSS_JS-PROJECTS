@@ -23,9 +23,5 @@ All files are inside this folder:
 - `images/` (icons used in the app)
 
 ---
-
-Feel free to explore and improve!
-
-قال تعالى:  
-وَٱلَّذِينَ جَٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ  
-[العنكبوت: 69]
+Thank you for visiting this project!
+Feel free to explore, learn, and contribute.
