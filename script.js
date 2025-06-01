@@ -44,4 +44,4 @@ document.addEventListener('keydown',event => {
             updateStorage();
         }
     }
-}
+});
